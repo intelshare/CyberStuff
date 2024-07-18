@@ -6,7 +6,7 @@ This repository serves as a comprehensive collection of diverse materials compil
 
 Tables:
 
-|Forums|Link||
+|Details|Link||
 |---|---|---|
 |   |   |   |
 Russia Ukraine Cybertracker by Cyberknow | https://cyberknow.substack.com/p/update-24-2023-russia-ukraine-war
