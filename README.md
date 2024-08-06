@@ -11,3 +11,5 @@ Tables:
 |   |   |   |
 Russia Ukraine Cybertracker by Cyberknow | https://cyberknow.substack.com/p/update-24-2023-russia-ukraine-war
 Cyber Crime Raids | https://github.com/BushidoUK/Cybercrime-Police-Raids
+Grafana | https://mp.weixin.qq.com/s/OaPjAaNcEefQxaXQykheqg
+Darknet ocr | https://github.com/chineseocr/darknet-ocr
